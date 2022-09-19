@@ -1,0 +1,8 @@
+linux@linux-Virtual-Machine:~/Documents/algoritma$ nasm -f elf64 program15.asm
+linux@linux-Virtual-Machine:~/Documents/algoritma$ ld program15.o -o program15
+linux@linux-Virtual-Machine:~/Documents/algoritma$ ./program15
+1.Halo
+2.Halo
+3.Halo
+4.Halo
+5.Halo
